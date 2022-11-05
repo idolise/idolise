@@ -1,2 +1,2 @@
-<img style="height:209px" src="https://dg.o-k.repl.co/jit#112f">
+<img style="height:209px" src="https://dg.o-k.repl.co/jit#s">
 
