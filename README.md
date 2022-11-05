@@ -1,2 +1,2 @@
-<img src="https://imageserver.absq.repl.co/idolise#js3sefws">
+<img src="https://imageserver.absq.repl.co/f8i">
 
