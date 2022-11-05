@@ -1,1 +1,1 @@
-![Alt text](https://imageserver.absq.repl.co/idolise)
+![Alt text](https://imageserver.absq.repl.co/idolise#jit)
