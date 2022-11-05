@@ -1,2 +1,2 @@
-<img src="https://imageserver.absq.repl.co/idolise#forceudpyhdfate">
+<img src="https://dg.o-k.repl.co/idolise">
 
