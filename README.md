@@ -1,2 +1,2 @@
-<img style="height:100%" src="https://imageserver.absq.repl.co/f8i#w">
+<img style="height:500px" src="https://imageserver.absq.repl.co/f8i#wefw">
 
