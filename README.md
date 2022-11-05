@@ -1,3 +1,3 @@
 <div style="text-align:center">
-![Alt text](https://imageserver.absq.repl.co/idolise#jit)
+<img src="https://imageserver.absq.repl.co/idolise#jits">
   </div>
